@@ -1,0 +1,18 @@
+# UE5 - abgeleitete/temporäre Ordner
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Build/
+
+# IDE
+**/.vs/
+**/.idea/
+# OS
+Thumbs.db
+desktop.ini
+
+# Packaged Builds (nicht ins Repo)
+**/Packaged/
+**/WindowsNoEditor/
+**/Windows/
