@@ -1,0 +1,4 @@
+Für eure Asset-/Quellenliste:
+Assets:
+
+Hintergrundmusik (In-Game-Loop): Eigenkomposition, SFX_IngameMusic
