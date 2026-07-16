@@ -80,6 +80,9 @@ sowohl Gegner als auch Spieler. Pro Level spawnen 100 Gegner in Etappen
 Tastatur/Maus-Mappings. Maus-Aiming per Tick-Polling (Get Mouse Position),
 nicht event-basiert.
 
+**Fix was noch gemacht werden muss**
+-  kommt jetzt nicht mehr der string LEVEL CLEARED - hier startet später der Boss wenn ich alle getötet hab
+
 **Noch offen (Fahrplan):**
 - [ ] Game Over / Restart-System
 - [ ] Menüs: Main Menu, Pause, Settings, Credits (Pflicht)
