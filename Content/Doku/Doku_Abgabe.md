@@ -17,7 +17,8 @@ Tastatur/Maus wird zusätzlich unterstützt.
 | Bewegen | Linker Stick | W / A / S / D |
 | Zielen | Rechter Stick | Maus |
 | Schießen | RT/R2 | Linke Maustaste |
-| Dash / Ausweichrolle | LB/L1 | Leertaste (Space) |
+| Nachladen | LB/L1 | R |
+| Dash / Ausweichrolle | A/X | Leertaste (Space) |
 | Pause | *[noch nicht implementiert — nachtragen]* | *[noch nicht implementiert]* |
 | Menü-Navigation | *[noch nicht implementiert — nachtragen]* | *[noch nicht implementiert]* |
 
@@ -81,7 +82,8 @@ Tastatur/Maus-Mappings. Maus-Aiming per Tick-Polling (Get Mouse Position),
 nicht event-basiert.
 
 **Fix was noch gemacht werden muss**
--  kommt jetzt nicht mehr der string LEVEL CLEARED - hier startet später der Boss wenn ich alle getötet hab
+- gegner hinter wänden erkennen mich trotzdem und schießen
+- Dash auf tastatur zu weit wenn A+W oder D+W
 
 **Noch offen (Fahrplan):**
 - [ ] Game Over / Restart-System

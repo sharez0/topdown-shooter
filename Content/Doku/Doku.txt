@@ -1,9 +1,0 @@
-Für eure Asset-/Quellenliste:
-Assets:
-
-Hintergrundmusik (In-Game-Loop): Eigenkomposition, SFX_IngameMusic
-
-Was noch gemacht warden muss:
-gegner hinter wänden erkennen mich trotzdem und schießen
-
-Dash auf tastatur zu weit wenn A+W oder D+W
