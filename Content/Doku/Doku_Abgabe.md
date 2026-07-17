@@ -85,7 +85,7 @@ nicht event-basiert.
 
 
 **Noch offen (Fahrplan):**
-- [ ] Game Over / Restart-System
+- [ ] Game Over / Restart-System Schritt 2 in claude weitermachen
 - [ ] Menüs: Main Menu, Pause, Settings, Credits (Pflicht)
 - [ ] In-Game-Tutorial (selbsterklärend, eingeblendet)
 - [ ] Boss-Fight
