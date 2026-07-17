@@ -81,9 +81,8 @@ sowohl Gegner als auch Spieler. Pro Level spawnen 100 Gegner in Etappen
 Tastatur/Maus-Mappings. Maus-Aiming per Tick-Polling (Get Mouse Position),
 nicht event-basiert.
 
-**Fix was noch gemacht werden muss**
-- gegner hinter wänden erkennen mich trotzdem und schießen
-- Dash auf tastatur zu weit wenn A+W oder D+W
+**Fix was noch gemacht werden muss:**
+
 
 **Noch offen (Fahrplan):**
 - [ ] Game Over / Restart-System
